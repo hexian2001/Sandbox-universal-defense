@@ -62,7 +62,7 @@ Since you cannot rely on the libc library, you need to use the following command
 gcc -nostdlib -nodefaultlibs -fPIC -Wl,-shared hook.c -o hook
 ```
 
-## how use change.py
+## How to use change.py
 
 example
 
